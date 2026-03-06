@@ -1,0 +1,28 @@
+Missing values in column 'T_Swift' were filled using statistical methods.
+Missing values in column 'Drake' were filled using statistical methods.
+Missing values in column 'Queen' were filled using statistical methods.
+Missing values in column 'The_Weeknd' were filled using statistical methods.
+Missing values in column 'Eminem' were filled using statistical methods.
+Missing values in column 'Nirvana' were filled using statistical methods.
+Missing values in column 'Ed_Sheeran' were filled using statistical methods.
+Missing values in column 'T_Scott' were filled using statistical methods.
+Missing values in column 'Linkin_Park' were filled using statistical methods.
+Missing values in column 'Dua_Lipa' were filled using statistical methods.
+Missing values in column 'K_Lamar' were filled using statistical methods.
+Missing values in column 'Imag_Dragons' were filled using statistical methods.
+Missing values in column 'Ariana_G' were filled using statistical methods.
+Outliers in column 'T_Swift' were adjusted using IQR clipping.
+Outliers in column 'Drake' were adjusted using IQR clipping.
+Outliers in column 'Queen' were adjusted using IQR clipping.
+Outliers in column 'The_Weeknd' were adjusted using IQR clipping.
+Outliers in column 'Eminem' were adjusted using IQR clipping.
+Outliers in column 'Nirvana' were adjusted using IQR clipping.
+Outliers in column 'Ed_Sheeran' were adjusted using IQR clipping.
+Outliers in column 'T_Scott' were adjusted using IQR clipping.
+Outliers in column 'Linkin_Park' were adjusted using IQR clipping.
+Outliers in column 'Dua_Lipa' were adjusted using IQR clipping.
+Outliers in column 'K_Lamar' were adjusted using IQR clipping.
+Outliers in column 'Imag_Dragons' were adjusted using IQR clipping.
+Outliers in column 'Ariana_G' were adjusted using IQR clipping.
+Standardized text data in column 'User_ID' (lowercase & trimmed).
+Dataset is now cleaned and ready for machine learning model training.
