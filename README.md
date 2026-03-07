@@ -82,11 +82,18 @@ Data quality summary
 Missing value visualization
 
 Correlation analysis
+![alt text](image-2.png)
+
+![alt text](image.png)
+
+![alt text](image-1.png)
 
 Model recommendations
 
+![alt text](image-3.png)
+
 AI-generated data cleaning explanations
-
 Downloadable cleaned dataset
-
 Downloadable AI analysis report
+
+![alt text](image-4.png)
